@@ -232,7 +232,7 @@ MonoBehaviour:
   skillHolder: {fileID: 2064278012}
   ConnectorList: []
   ConnectorHolder: {fileID: 1632736139}
-  skillPoint: 0
+  skillPoint: 30
   currentLevel: 0
 --- !u!4 &300276913
 Transform:
